@@ -1,0 +1,21 @@
+FastEthernet0/0   Up     192.168.15.30/27   <not set>                                 0060.2F17.E5C3   
+FastEthernet1/0   Up     192.168.15.62/27   <not set>                                 0030.F261.82CD   
+FastEthernet2/0   Up     192.168.15.94/27   <not set>                                 0001.647A.BC40   
+FastEthernet3/0   Up     192.168.15.126/27  <not set>                                 0002.4AE7.6BA8   
+
+Internet          Up     192.168.15.125/27  0009.7C75.CD01   
+Virtual-Access1   Down   <not set>          00E0.A3D8.1B23   
+Dialer1           Up     <not set>          0002.4ACE.7CE2   
+LAN               Up     192.168.15.254/27  00D0.BC2D.D33A   
+
+
+192.168.15.0/27 
+192.168.15.32/27
+192.168.15.64/27
+192.168.15.96/27
+192.168.15.128/27
+
+192.168.15.224/27
+
+registro id,valor
+puntuaciones id,puntuacion,fecha
