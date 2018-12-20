@@ -21,3 +21,5 @@ registro id,valor
 puntuaciones id,puntuacion,fecha
 
 hola prro
+
+ya me estoy aburriendo 
