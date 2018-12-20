@@ -19,3 +19,5 @@ LAN               Up     192.168.15.254/27  00D0.BC2D.D33A
 
 registro id,valor
 puntuaciones id,puntuacion,fecha
+
+hola prro
